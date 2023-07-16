@@ -17,7 +17,7 @@ public class SpringbootAsyncApplication {
         for (int i = 0; i < 5; i++) {
 //            asyncMethods.test1();
 //            asyncMethods.test2();
-            asyncMethods.test3();
+//            asyncMethods.test3();
         }
 
     }
