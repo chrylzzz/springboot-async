@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * 方法直接写async
  * Created by Chr.yl on 2023/2/8.
  *
  * @author Chr.yl
